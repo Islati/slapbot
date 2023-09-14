@@ -1,12 +1,6 @@
 ABOUT
 ----
-
-The purpose of this bot is to automate certain aspects of social media growth specifically for my Youtube Channel, Spotify, Slaps, TikTok, Reddit, Facebook, Soundcloud and Audiomack and Hackforums, and other potential revenue streams.
-
-Using the power of automated messaging (generating messages, sending them) and data scraping to find the targets I'm able to build
-an entire database of niche artists to interact with, in hopes of provoking an action.
-
-In short, asking them to do something like check out a new video, or join a livestream.
+🤖 Niche bot with a purpose of delivering messages tailored to your fanbase.
 
 **The Tech Specs**
 * [Spintax](https://github.com/AceLewis/spintax) library backed for text generation.
