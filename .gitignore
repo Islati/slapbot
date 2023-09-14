@@ -1,0 +1,11 @@
+venv/
+.idea/
+*.pyc
+*.idea
+*.jml
+**/*.log
+geckodriver.log
+slapbot.log
+ytbot.log
+frontend
+*.json
